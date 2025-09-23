@@ -94,12 +94,12 @@ The workshop will take place on September 28, 2025, 9:00–17:00 in room XX. See
     <tr>
       <td>Keynote 1</td>
       <td>10:00–10:45</td>
-      <td>Keynote on Cognitive Modeling</td>
+      <td>Keynote on Biomechanical Modeling</td>
     </tr>
     <tr>
       <td>Keynote 2</td>
       <td>10:45-11:30</td>
-      <td>Keynote on Biomechanical Modeling</td>
+      <td>Keynote on Cognitive Modeling</td>
     </tr>
     <tr>
       <td>Brainstorming: Use Cases and Applications</td>
