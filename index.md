@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Computational models of how users perceive, think, and move in virtual or physical environments hold great promise for the future of HCI. Cognitive models help us understand how attention, beliefs, and goals shape user decisions, while biomechanical simulations capture the physical aspects of interaction—such as effort, fatigue, and posture.
+Imagine testing hundreds of interaction designs for an XR application overnight—taking into account criteria that you deem important, such as physical toll, accuracy, and speed. Future biomechanical simulations could offer these possibil ities: acting as “virtual crash test dummies,” reinforcement learning (RL) agents controlling musculoskeletal models in physics-based interaction environments can already predict interaction behaviour and movement strategies to guide interaction design. “Simulated users,” i.e., biomechanical models of the upper or full body with muscles controlled via a pre-trained sensorimotor policy, have achieved remarkable performance across core HCI tasks, including mid-air pointing, keyboard typing, and mobile touch.
 
-The next frontier is connecting these two perspectives. By integrating cognitive and biomechanical modeling, we can create embodied user simulations that better predict user strategies, movements, and intent. This opens up new possibilities for benchmarking interaction techniques, optimizing ergonomics, and designing adaptive, user-aware systems.
+However, several challenges limit the practical applicability of biomechanical RL as a research and prototyping method for interaction design. Biomechanical RL depends on computationally expensive training, with typically hand crafted rewards and learning curricula, and does not generalise well across tasks. Moreover, biomechanical models are often perceived technically complex and immature, requiring substantial domain expertise. Overall, biomechanical RL incurs significant computational costs and mental effort.
 
-This UIST workshop brings together researchers across disciplines to explore how computational modeling can enhance UI/UX design, automate system evaluation, and support personalization. Join us as we identify challenges, share ideas, and shape the future of interactive behavior simulation.
+As a community, we must therefore ask: What role should biomechanical RL play in Computational Interaction? Which of its current limitations are we positioned and willing to address, and where to start? What qualities of biomechanical RL do we deem essential, and how to communicate this to the broader HCI community? This workshop seeks a critical, strategic reflection on biomechanical reinforcement learning as a method in Computational Interaction, and to define a roadmap for biomechanical RL in HCI.
 
 
 [//]: # ()
@@ -37,120 +37,192 @@ This UIST workshop brings together researchers across disciplines to explore how
 [//]: # ()
 [//]: # (**Notifications:** March 3, 2025 &#40;AoE&#41;)
 
-# Goals and Activities 
-The goal of Mind & Motion is to explore how cognitive and biomechanical models can advance user interface design and usability. By bringing together researchers and practitioners from across disciplines, the workshop aims to foster collaboration, share insights, and identify real-world applications where predictive and embodied user models can make a tangible impact in HCI.
+# Call for Participation
+This S3CIX 2026 workshop seeks a critical, strategic reflection on biomechanical reinforcement learning as a method in Computational Interaction, and to define a roadmap for biomechanical RL in HCI. It invites all interested HCI researchers to discuss which limitations we as a community are positioned and willing to address, how to tackle them, and where to start best.
 
-We welcome anyone working on simulations or computational models of user behavior—whether focused on cognition, motor control, or their intersection. Participants are encouraged to share hands-on examples of their recent work, including prototypes, tools, or lessons from failed attempts. Our aim is to build a shared understanding of current challenges and opportunities in modeling interactive user behavior.
+To let us know about your interest in this workshop, please fill this form, where you are asked to share your previous experiences with biomechanical RL (if any) and share your expectations for this workshop. All participants will be invited to contribute to an Interactions article, where we will share our insights on the potential of biomechanical user simulations for computational interaction and HCI research.
 
-The workshop includes **two keynotes on cutting-edge research** in biomechanical simulations and cognitive modelling. After the  keynotes, which intentionally follow each other to provide input from different areas and perspectives, we foster discussions and exchange in small groups.
 
 # Schedule and Location
-The workshop will take place on September 28, 2025, 9:00–17:00 in room XX. See full UIST workshop programme [here](https://uist.acm.org/2025/).
+The workshop will take place on tbd. See full S<sup>3</sup>CIX workshop programm [here](https://s3cix.computationalinteraction.org/workshops/).
 
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 0.8em; /* Reduces font size slightly */
-  }
+[//]: # (<style>)
 
-  th, td {
-    padding: 10px;
-    border: 1px solid #ddd;
-  }
+[//]: # (  table {)
 
-  th {
-    background-color: #f2f2f2;
-  }
+[//]: # (    width: 100%;)
 
-  tbody tr:nth-child(even) {
-    background-color: #f9f9f9; /* Light gray background for even rows */
-  }
+[//]: # (    border-collapse: collapse;)
 
-  tbody tr:nth-child(odd) {
-    background-color: #ffffff; /* White background for odd rows */
-  }
+[//]: # (    font-size: 0.8em; /* Reduces font size slightly */)
 
-  .break {
-    font-style: italic; /* Italicizes break rows */
-  }
-</style>
+[//]: # (  })
 
-<table>
-  <thead>
-    <tr>
-      <th>Activity</th>
-      <th>Time</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Welcoming and Introduction</td>
-      <td>9:00–10:00</td>
-      <td>Welcoming and introduction of participants through lightning talks</td>
-    </tr>
-    <tr>
-      <td>Keynote 1</td>
-      <td>10:00–10:45</td>
-      <td>Keynote on Biomechanical Modeling</td>
-    </tr>
-    <tr>
-      <td>Keynote 2</td>
-      <td>10:45-11:30</td>
-      <td>Keynote on Cognitive Modeling</td>
-    </tr>
-    <tr>
-      <td>Brainstorming: Use Cases and Applications</td>
-      <td>11:30-12:30</td>
-      <td>With both keynotes in mind, this session provides an opportunity to brainstorm Use Cases and Applications in smaller groups.</td>
-    </tr>
-    <tr class="break">
-      <td>Lunch</td>
-      <td>12:30–13:30</td>
-      <td>Enjoy some great local food.</td>
-    </tr>
-    <tr>
-      <td>Spotlights and Demos</td>
-      <td>13:30–14:30</td>
-      <td>In this interactive demo carousel, selected participants will showcase hands-on examples of cognitive and biomechanical modeling to spark discussion on practical challenges and lessons learned.</td>
-    </tr>
-    <tr>
-      <td>Group Discussion: Challenges and Limitations</td>
-      <td>14:30–15:30</td>
-      <td>Discussion of grand challenges and limitations simulations will face in the previously identified applications.</td>
-    </tr>
-    <tr class="break">
-      <td>Coffee Break</td>
-      <td>15:30–16:00</td>
-      <td>Networking, Relaxation</td>
-    </tr>
-    <tr>
-      <td>Closing Session</td>
-      <td>16:00–17:00</td>
-      <td>This closing session will wrap up key insights, reflect on participants' learnings, summarize participants' shared interests, and discuss next steps for integrating biomechanical and cognitive simulations in HCI.</td>
-    </tr>
-    <tr class="break">
-      <td>Dinner</td>
-      <td>???</td>
-      <td>Informal dinner for all participants who still have some energy left</td>
-    </tr>
-  </tbody>
-</table>
+[//]: # ()
+[//]: # (  th, td {)
+
+[//]: # (    padding: 10px;)
+
+[//]: # (    border: 1px solid #ddd;)
+
+[//]: # (  })
+
+[//]: # ()
+[//]: # (  th {)
+
+[//]: # (    background-color: #f2f2f2;)
+
+[//]: # (  })
+
+[//]: # ()
+[//]: # (  tbody tr:nth-child&#40;even&#41; {)
+
+[//]: # (    background-color: #f9f9f9; /* Light gray background for even rows */)
+
+[//]: # (  })
+
+[//]: # ()
+[//]: # (  tbody tr:nth-child&#40;odd&#41; {)
+
+[//]: # (    background-color: #ffffff; /* White background for odd rows */)
+
+[//]: # (  })
+
+[//]: # ()
+[//]: # (  .break {)
+
+[//]: # (    font-style: italic; /* Italicizes break rows */)
+
+[//]: # (  })
+
+[//]: # (</style>)
+
+[//]: # ()
+[//]: # (<table>)
+
+[//]: # (  <thead>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <th>Activity</th>)
+
+[//]: # (      <th>Time</th>)
+
+[//]: # (      <th>Description</th>)
+
+[//]: # (    </tr>)
+
+[//]: # (  </thead>)
+
+[//]: # (  <tbody>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td>Welcoming and Introduction</td>)
+
+[//]: # (      <td>9:00–10:00</td>)
+
+[//]: # (      <td>Welcoming and introduction of participants through lightning talks</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td>Keynote 1</td>)
+
+[//]: # (      <td>10:00–10:45</td>)
+
+[//]: # (      <td>Keynote on Biomechanical Modeling</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td>Keynote 2</td>)
+
+[//]: # (      <td>10:45-11:30</td>)
+
+[//]: # (      <td>Keynote on Cognitive Modeling</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td>Brainstorming: Use Cases and Applications</td>)
+
+[//]: # (      <td>11:30-12:30</td>)
+
+[//]: # (      <td>With both keynotes in mind, this session provides an opportunity to brainstorm Use Cases and Applications in smaller groups.</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr class="break">)
+
+[//]: # (      <td>Lunch</td>)
+
+[//]: # (      <td>12:30–13:30</td>)
+
+[//]: # (      <td>Enjoy some great local food.</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td>Spotlights and Demos</td>)
+
+[//]: # (      <td>13:30–14:30</td>)
+
+[//]: # (      <td>In this interactive demo carousel, selected participants will showcase hands-on examples of cognitive and biomechanical modeling to spark discussion on practical challenges and lessons learned.</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td>Group Discussion: Challenges and Limitations</td>)
+
+[//]: # (      <td>14:30–15:30</td>)
+
+[//]: # (      <td>Discussion of grand challenges and limitations simulations will face in the previously identified applications.</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr class="break">)
+
+[//]: # (      <td>Coffee Break</td>)
+
+[//]: # (      <td>15:30–16:00</td>)
+
+[//]: # (      <td>Networking, Relaxation</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td>Closing Session</td>)
+
+[//]: # (      <td>16:00–17:00</td>)
+
+[//]: # (      <td>This closing session will wrap up key insights, reflect on participants' learnings, summarize participants' shared interests, and discuss next steps for integrating biomechanical and cognitive simulations in HCI.</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr class="break">)
+
+[//]: # (      <td>Dinner</td>)
+
+[//]: # (      <td>???</td>)
+
+[//]: # (      <td>Informal dinner for all participants who still have some energy left</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (  </tbody>)
+
+[//]: # (</table>)
 
 
 # Organizers
-
-## Arthur Fleig
-
-<div class="organiser-photo">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/arthur-fleig.png" alt="Arthur Fleig">
-</div>
-
-Arthur Fleig is a junior research group leader at <a href="https://scads.ai">ScaDS.AI</a> Leipzig, Leipzig University. His research interests lie on the interface between Computer Science and Mathematics. He focuses on modelling, simulation, and optimal control of real-world-relevant dynamical systems within Human-Computer Interaction.
-
-<div style="clear: both;"></div>
 
 ## Florian Fischer
 
@@ -162,15 +234,32 @@ Florian Fischer is a Postdoc in the Intelligent Interactive Systems group at Cam
 
 <div style="clear: both;"></div>
 
-## Markus Klar
+## Arthur Fleig
 
 <div class="organiser-photo">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/markus-klar.jpg" alt="Markus Klar">
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/arthur-fleig.png" alt="Arthur Fleig">
 </div>
 
-Markus Klar is a Postdoc in the Inference, Dynamics and Interaction group at the University of Glasgow. His research focuses on the simulation of human interactions with computers using biomechanical models, model-predictive control, and RL. As part of the [DIFAI](https://difai-project.org/}{DIFAI) project, he is working on active inference-based simulations and applications.
+Arthur Fleig is a junior research group leader at <a href="https://scads.ai">ScaDS.AI</a> Leipzig, Leipzig University. His research interests lie on the interface between Computer Science and Mathematics. He focuses on modelling, simulation, and optimal control of real-world-relevant dynamical systems within Human-Computer Interaction.
 
 <div style="clear: both;"></div>
+
+
+
+[//]: # (## Markus Klar)
+
+[//]: # ()
+[//]: # (<div class="organiser-photo">)
+
+[//]: # (   <img src="{{ site.url }}{{ site.baseurl }}/assets/markus-klar.jpg" alt="Markus Klar">)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (Markus Klar is a Postdoc in the Inference, Dynamics and Interaction group at the University of Glasgow. His research focuses on the simulation of human interactions with computers using biomechanical models, model-predictive control, and RL. As part of the [DIFAI]&#40;https://difai-project.org/}{DIFAI&#41; project, he is working on active inference-based simulations and applications.)
+
+[//]: # ()
+[//]: # (<div style="clear: both;"></div>)
 
 ## Patrick Ebel
 
@@ -178,7 +267,7 @@ Markus Klar is a Postdoc in the Inference, Dynamics and Interaction group at the
    <img src="{{ site.url }}{{ site.baseurl }}/assets/patrick-ebel.png" alt="Patrick Ebel">
 </div>
 
-Patrick Ebel is leading the junior research group [CIAO](https://ciao-group.github.io) at [ScaDS.AI](https://scads.ai), Leipzig University. His research focuses on data-driven and RL-based user models for simulating human-computer interaction in dynamic environments.
+Patrick Ebel is Assistant Professor for Computational Interaction at <a href="https://hpi.de/en/">Hasso Plattner Institute</a>. His research focuses on data-driven and RL-based user models for simulating human-computer interaction to design technology that is easy and safe to use.
 
 <div style="clear: both;"></div>
 
@@ -188,19 +277,10 @@ Patrick Ebel is leading the junior research group [CIAO](https://ciao-group.gith
    <img src="{{ site.url }}{{ site.baseurl }}/assets/miroslav-bachinski.jpg" alt="Miroslav Bachinski">
 </div>
 
-Miroslav Bachinski is an associate professor at the University of Bergen. His research focuses on the development and application of data-driven methods to improve post-desktop user interfaces within the large spaces of alternative designs (e.g., virtual reality, levitation).
+Miroslav Bachinski is an Associate Professor at the University of Bergen. His research focuses on the development and application of data-driven methods to improve post-desktop user interfaces within the large spaces of alternative designs (e.g., virtual reality, levitation).
 
 <div style="clear: both;"></div>
 
-## Per Ola Kristensson
-
-<div class="organiser-photo">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/per-ola-kristensson.png" alt="Per Ola Kristensson">
-</div>
-
-Per Ola Kristensson is a Professor of Interactive Systems Engineering in the Department of Engineering at the University of Cambridge and a Fellow of Trinity College, Cambridge. He is a co-founder and co-director of the Centre for Human-Inspired Artificial Intelligence at the University of Cambridge.
-
-<div style="clear: both;"></div>
 
 ## Roderick Murray-Smith
 
@@ -220,5 +300,15 @@ Roderick Murray-Smith is  professor in the School of Computing Science at the Un
 </div>
 
 Antti Oulasvirta leads the User Interfaces research group at Aalto University and the Interactive AI research program at the Finnish Center for AI.
+
+<div style="clear: both;"></div>
+
+## Per Ola Kristensson
+
+<div class="organiser-photo">
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/per-ola-kristensson.png" alt="Per Ola Kristensson">
+</div>
+
+Per Ola Kristensson is a Professor of Interactive Systems Engineering in the Department of Engineering at the University of Cambridge and a Fellow of Trinity College, Cambridge. He is a co-founder and co-director of the Centre for Human-Inspired Artificial Intelligence at the University of Cambridge.
 
 <div style="clear: both;"></div>
