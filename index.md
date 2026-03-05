@@ -288,7 +288,7 @@ Miroslav Bachinski is an Associate Professor at the University of Bergen. His re
    <img src="{{ site.url }}{{ site.baseurl }}/assets/roderick-murray-smith.png" alt="Roderick Murray-Smith">
 </div>
 
-Roderick Murray-Smith is  professor in the School of Computing Science at the University of Glasgow, where he is a member of the Inference, Dynamics and Interaction group and works in the areas of human-computer interaction, machine learning, and control, leading the ERC project [DIFAI](https://difai-project.org/}{DIFAI) on active inference in HCI.
+Roderick Murray-Smith is  professor in the School of Computing Science at the University of Glasgow, where he is a member of the Inference, Dynamics and Interaction group and works in the areas of human-computer interaction, machine learning, and control, leading the ERC project <a href="https://difai-project.org/">DIFAI</a> on active inference in HCI.
 
 <div style="clear: both;"></div>
 
