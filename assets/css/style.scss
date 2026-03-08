@@ -3,6 +3,24 @@
 
 @import 'jekyll-theme-cayman';
 
+.page-header {
+  position: relative;
+  background-image: url("/assets/header_background.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.page-header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.25); /* subtle dark overlay */
+}
+
+.page-header * {
+  position: relative;
+}
+
 .organiser-photo img {
     float: left;         /* Float the image to the left */
     width: 150px;        /* Set a fixed width for the image */
