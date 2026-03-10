@@ -46,7 +46,7 @@ As a community, we must therefore ask: What role should biomechanical RL play in
 # Call for Participation
 This S3CIX 2026 workshop seeks a critical, strategic reflection on biomechanical reinforcement learning as a method in Computational Interaction, and to define a roadmap for biomechanical RL in HCI. It invites all interested HCI researchers to discuss which limitations we as a community are positioned and willing to address, how to tackle them, and where to start best.
 
-To let us know about your interest in this workshop, please fill this form, where you are asked to share your previous experiences with biomechanical RL (if any) and share your expectations for this workshop. All participants will be invited to contribute to an Interactions article, where we will share our insights on the potential of biomechanical user simulations for computational interaction and HCI research.
+To let us know about your interest in this workshop, please fill this [form](https://forms.gle/LsJmN38CwhzUWKqs5), where you are asked to share your previous experiences with biomechanical RL (if any) and share your expectations for this workshop. All participants will be invited to contribute to an Interactions article, where we will share our insights on the potential of biomechanical user simulations for computational interaction and HCI research.
 
 
 # Schedule and Location
