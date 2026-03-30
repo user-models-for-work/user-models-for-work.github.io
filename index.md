@@ -230,23 +230,31 @@ The workshop will take place on tbd. See full S<sup>3</sup>CIX workshop programm
 
 # Organizers
 
-## Florian Fischer
+## Martin Lorenz
 
 <div class="organiser-photo">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/florian-fischer.jpg" alt="Florian Fischer">
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/martin-lorenz.png" alt="Martin Lorenz">
 </div>
 
-Florian Fischer is a Postdoc in the Intelligent Interactive Systems group at Cambridge University, with a background in mathematics. His research areas include optimal control methods and deep reinforcement learning (RL) for human-computer interaction, biomechanical user modelling, mid-air interaction techniques, and social VR.
-
+Martin Lorenz is a PhD student at the Computational Interaction Group at the <a href="https://scads.ai">Center for Scalable Data Analytics and Artificial Intelligence</a>, Leipzig, Germany. His work focuses on developing computational models of human attention allocation in dynamic environments.
 <div style="clear: both;"></div>
 
-## Arthur Fleig
+## Philipp Wintersberger
 
 <div class="organiser-photo">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/arthur-fleig.png" alt="Arthur Fleig">
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/philipp-wintersberger.jpg" alt="Philipp Wintersberger">
 </div>
 
-Arthur Fleig is a junior research group leader at <a href="https://scads.ai">ScaDS.AI</a> Leipzig, Leipzig University. His research interests lie on the interface between Computer Science and Mathematics. He focuses on modelling, simulation, and optimal control of real-world-relevant dynamical systems within Human-Computer Interaction.
+Philipp Wintersberger is a Full Professor of Intelligent User Interfaces at the <a href="https://it-u.at/en/">Interdisciplinary Transformation University</a> in Linz, Austria. His research addresses human-machine cooperation in safety-critical AI-driven systems.
+<div style="clear: both;"></div>
+
+## Helena Anna Frijns
+
+<div class="organiser-photo">
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/helena-anna-frijns.jpg" alt="Helena Anna Frijns">
+</div>
+
+Helena Anna Frijns is a Postdoc at the Intelligent User Interfaces Group at Interdisciplinary Transformation University Austria. Her work focuses on understanding, modeling, and shaping interactions between people and robots.
 
 <div style="clear: both;"></div>
 
@@ -267,6 +275,28 @@ Arthur Fleig is a junior research group leader at <a href="https://scads.ai">Sca
 [//]: # ()
 [//]: # (<div style="clear: both;"></div>)
 
+
+## Leopold Böss
+
+<div class="organiser-photo">
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/leopold-boess.jpg" alt="Leopold Böss">
+</div>
+
+Leopold Böss is a PhD student at the Intelligent User Interfaces Group at the Interdisciplinary Transformation University, Austria. His work focuses on the computational modeling of human-like eye-head coordination, specifically in tasks that require high-amplitude gaze shifts and, thus, eye-head coordination.
+
+<div style="clear: both;"></div>
+
+
+## Alexander Lingler
+
+<div class="organiser-photo">
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/alexander-lingler.jpg" alt="Alexander Lingler">
+</div>
+
+Alexander Lingler is a PhD student at the Intelligent User Interfaces Group at Interdisciplinary Transformation University Austria, where he researches domain- and task-independent attention management systems by modeling human behavior to enhance adaptive user interaction and multitasking efficiency.
+
+<div style="clear: both;"></div>
+
 ## Patrick Ebel
 
 <div class="organiser-photo">
@@ -274,46 +304,4 @@ Arthur Fleig is a junior research group leader at <a href="https://scads.ai">Sca
 </div>
 
 Patrick Ebel is Assistant Professor for Computational Interaction at <a href="https://hpi.de/en/">Hasso Plattner Institute</a>. His research focuses on data-driven and RL-based simulated users that model human cognition, perception and motor control. These models aim to support the design and evaluation of interactive systems that are better aligned with human goals, abilities, and behavior.
-<div style="clear: both;"></div>
-
-## Miroslav Bachinski
-
-<div class="organiser-photo">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/miroslav-bachinski.jpg" alt="Miroslav Bachinski">
-</div>
-
-Miroslav Bachinski is an Associate Professor at the University of Bergen. His research focuses on the development and application of data-driven methods to improve post-desktop user interfaces within the large spaces of alternative designs (e.g., virtual reality, levitation).
-
-<div style="clear: both;"></div>
-
-
-## Roderick Murray-Smith
-
-<div class="organiser-photo">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/roderick-murray-smith.png" alt="Roderick Murray-Smith">
-</div>
-
-Roderick Murray-Smith is  professor in the School of Computing Science at the University of Glasgow, where he is a member of the Inference, Dynamics and Interaction group and works in the areas of human-computer interaction, machine learning, and control, leading the ERC project <a href="https://difai-project.org/">DIFAI</a> on active inference in HCI.
-
-<div style="clear: both;"></div>
-
-
-## Antti Oulasvirta
-
-<div class="organiser-photo">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/antti-oulasvirta.png" alt="Antti Oulasvirta">
-</div>
-
-Antti Oulasvirta leads the User Interfaces research group at Aalto University and the Interactive AI research program at the Finnish Center for AI.
-
-<div style="clear: both;"></div>
-
-## Per Ola Kristensson
-
-<div class="organiser-photo">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/per-ola-kristensson.png" alt="Per Ola Kristensson">
-</div>
-
-Per Ola Kristensson is a Professor of Interactive Systems Engineering in the Department of Engineering at the University of Cambridge and a Fellow of Trinity College, Cambridge. He is a co-founder and co-director of the Centre for Human-Inspired Artificial Intelligence at the University of Cambridge.
-
 <div style="clear: both;"></div>
