@@ -1,17 +1,25 @@
 ---
 layout: default
 ---
+Welcome to the official website for the "Workshop on Computational User Models for Work". This workshop will be held at CHIWORK 2026 in Linz, Austria. Please note that the workshop will be conducted in-person only.
 
-
+## About
 Computational models of human behavior have shown promise in informing design of interactive systems that align with users’ needs. Computational user models have potential to better anticipate and adapt systems to user needs and preferences, and are explicit about their assumptions regarding human behavior. This workshop will focus on how such models are relevant for work contexts. In order to develop a shared understanding of such models and their applications, and to build a community around these topics, the workshop will feature a tutorial on user models, breakout discussions, taxonomy building and paper writing activities.
 
-## Current Challenges
+## Workshop Goals
+The primary objective of this workshop is to establish a comprehensive understanding of computational user models in the context of work. To achieve this, the workshop focuses on several key areas:
+- **Establish Common Ground: The workshop will provide an introductory tutorial on computational models to ensure all participants share a foundational understanding.**
+- Develop a Taxonomy: The main focus is the joint development of a taxonomy to classify computational models for work. Participants will refine two initial dimensions during the workshop:
 
-However, several challenges limit the practical applicability of biomechanical RL as a research and prototyping method for interaction design. Biomechanical RL depends on computationally expensive training, with typically hand crafted rewards and learning curricula, and does not generalise well across tasks. Moreover, biomechanical models are often perceived technically complex and immature, requiring substantial domain expertise. Overall, biomechanical RL incurs significant computational costs and mental effort.
+  - **Model-Specific Dimension: Categorizing technical and structural approaches, including model types, required inputs, and the modeled target variables.**
 
-## Open Questions
+  - Domain-Specific Dimension: Contextualizing models by the actual task and data collection methods, such as the kind of work, behavioral aspects, modalities, scenarios, and intended application areas.
 
-As a community, we must therefore ask: What role should biomechanical RL play in Computational Interaction? Which of its current limitations are we positioned and willing to address, and where to start? What qualities of biomechanical RL do we deem essential, and how to communicate this to the broader HCI community? This workshop seeks a critical, strategic reflection on biomechanical reinforcement learning as a method in Computational Interaction, and to define a roadmap for biomechanical RL in HCI.
+- **Community and Future Outlook: Extend the taxonomy to better account for the needs and characteristics of the CHIWORK community.**
+
+- Establish a shared library of starting papers to facilitate snowball sampling for a literature review.
+
+- **Create a clear plan so the taxonomy and review can be submitted by the organizers and interested participants as a full paper at CHIWORK 27**
 
 
 [//]: # ()
@@ -50,7 +58,7 @@ To participate, please **submit a one-page position statement** summarizing rele
 
 
 # Schedule and Location
-The workshop will take place on tbd. See full CHIWORK workshop programm [here](https://chiwork.org/26/).
+The workshop will take place on site. See full CHIWORK workshop programm [here](https://chiwork.org/26/).
 
 
 [//]: # (<style>)
