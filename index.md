@@ -49,7 +49,7 @@ To let us know about your interest in this workshop, please fill this [form](htt
 
 
 # Schedule and Location
-The workshop will take place on tbd. See full S<sup>3</sup>CIX workshop programm [here](https://s3cix.computationalinteraction.org/workshops/).
+The workshop will take place on tbd. See full CHIWORK workshop programm [here](https://chiwork.org/26/).
 
 
 [//]: # (<style>)
