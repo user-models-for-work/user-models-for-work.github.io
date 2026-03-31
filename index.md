@@ -9,6 +9,7 @@ Computational models of human behavior have shown promise in informing design of
 ## Workshop Goals
 The primary objective of this workshop is to establish a comprehensive understanding of computational user models in the context of work. To achieve this, the workshop focuses on several key areas:
 - **Establish Common Ground: The workshop will provide an introductory tutorial on computational models to ensure all participants share a foundational understanding.**
+
 - Develop a Taxonomy: The main focus is the joint development of a taxonomy to classify computational models for work. Participants will refine two initial dimensions during the workshop:
 
   - **Model-Specific Dimension: Categorizing technical and structural approaches, including model types, required inputs, and the modeled target variables.**
