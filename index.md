@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Welcome to the official website for the "Workshop on Computational User Models for Work". This workshop will be held at CHIWORK 2026 in Linz, Austria. Please note that the workshop will be conducted in-person only and is limited to 25 participants.
+Welcome to the official website for the "Workshop on Computational User Models for Work". This workshop will be held at CHIWORK 2026 in Linz, Austria. Please note that the workshop will be conducted in-person only and is **limited to 25 participants**.
 
 ## About
 Computational models of human behavior have shown promise in informing design of interactive systems that align with users’ needs. Computational user models have potential to better anticipate and adapt systems to user needs and preferences, and are explicit about their assumptions regarding human behavior. This workshop will focus on how such models are relevant for work contexts. In order to develop a shared understanding of such models and their applications, and to build a community around these topics, the workshop will feature a tutorial on user models, breakout discussions, taxonomy building and paper writing activities.
