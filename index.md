@@ -313,3 +313,6 @@ Alexander Lingler is a PhD student at the Intelligent User Interfaces Group at I
 
 Patrick Ebel is Assistant Professor for Computational Interaction at <a href="https://hpi.de/en/">Hasso Plattner Institute</a>. His research focuses on data-driven and RL-based simulated users that model human cognition, perception and motor control. These models aim to support the design and evaluation of interactive systems that are better aligned with human goals, abilities, and behavior.
 <div style="clear: both;"></div>
+
+## Inclusion and Accessibility
+Please contact [Martin Lorenz](mailto:lorenz@cs.uni-leipzig.de) for further information. 
