@@ -3,8 +3,7 @@ layout: default
 ---
 
 
-
-Imagine testing hundreds of interaction designs for an XR application overnight—taking into account criteria that you deem important, such as physical toll, accuracy, and speed. Future biomechanical simulations could offer these possibil ities: acting as “virtual crash test dummies,” reinforcement learning (RL) agents controlling musculoskeletal models in physics-based interaction environments can already predict interaction behaviour and movement strategies to guide interaction design. “Simulated users,” i.e., biomechanical models of the upper or full body with muscles controlled via a pre-trained sensorimotor policy, have achieved remarkable performance across core HCI tasks, including mid-air pointing, keyboard typing, and mobile touch.
+Computational models of human behavior have shown promise in informing design of interactive systems that align with users’ needs. Computational user models have potential to better anticipate and adapt systems to user needs and preferences, and are explicit about their assumptions regarding human behavior. This workshop will focus on how such models are relevant for work contexts. In order to develop a shared understanding of such models and their applications, and to build a community around these topics, the workshop will feature a tutorial on user models, breakout discussions, taxonomy building and paper writing activities.
 
 ## Current Challenges
 
