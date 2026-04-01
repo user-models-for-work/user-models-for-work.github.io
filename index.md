@@ -59,7 +59,7 @@ To participate, please **submit a one-page position statement** summarizing rele
 
 
 # Schedule and Location
-The workshop will take place on site. Due to capacity limits the **maximal number of participants is limited to 25**. See full CHIWORK workshop programm [here](https://chiwork.org/26/).
+The workshop will take place on site. Due to capacity limits the **maximal number of participants is limited to 25**. See full CHIWORK workshop program [here](https://chiwork.org/26/).
 
 
 [//]: # (<style>)
