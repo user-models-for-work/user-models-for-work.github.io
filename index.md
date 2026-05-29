@@ -8,19 +8,19 @@ Computational models of human behavior have shown promise in informing design of
 
 ## Workshop Goals
 The primary objective of this workshop is to establish a comprehensive understanding of computational user models in the context of work. To achieve this, the workshop focuses on several key areas:
-- **Establish Common Ground: The workshop will provide an introductory tutorial on computational models to ensure all participants share a foundational understanding.**
+- Establish Common Ground: The workshop will provide an introductory tutorial on computational models to ensure all participants share a foundational understanding.
 
 - Develop a Taxonomy: The main focus is the joint development of a taxonomy to classify computational models for work. Participants will refine two initial dimensions during the workshop:
 
-  - **Model-Specific Dimension: Categorizing technical and structural approaches, including model types, required inputs, and the modeled target variables.**
+  - Model-Specific Dimension: Categorizing technical and structural approaches, including model types, required inputs, and the modeled target variables.
 
   - Domain-Specific Dimension: Contextualizing models by the actual task and data collection methods, such as the kind of work, behavioral aspects, modalities, scenarios, and intended application areas.
 
-- **Community and Future Outlook: Extend the taxonomy to better account for the needs and characteristics of the CHIWORK community.**
+- Community and Future Outlook: Extend the taxonomy to better account for the needs and characteristics of the CHIWORK community.
 
 - Establish a shared library of starting papers to facilitate snowball sampling for a literature review.
 
-- **Create a clear plan so the taxonomy and review can be submitted by the organizers and interested participants as a full paper at CHIWORK 27**
+- Create a clear plan so the taxonomy and review can be submitted by the organizers and interested participants as a full paper at CHIWORK 27
 
 
 [//]: # ()
